@@ -9,3 +9,9 @@ Another important widget is **AnimatedOpacity**, which controls the visibility o
 
 These animation techniques enhance the app’s UI by adding smooth, visually appealing transitions, making the app more engaging and interactive. The chapter provided a comprehensive overview of how to animate widgets and control animation sequences, essential skills for improving the user experience in Flutter apps.
 
+![Screenshot 2024-12-04 222423](https://github.com/user-attachments/assets/9d19c7ad-1bae-47b8-a7e8-927c886fd2a5)
+
+
+![Screenshot 2024-12-04 222435](https://github.com/user-attachments/assets/274fc52d-6137-447a-89e1-68c75923272c)
+
+
